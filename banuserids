@@ -8,4 +8,4 @@ bans = {
 3386201742,
 1
 }
-return ban
+return bans
